@@ -1,24 +1,14 @@
-# task-manager
+# Task Manager
+![](project.png)
 
-## Project setup
-```
-npm install
-```
+## Tutorial Traversy Media
+https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=2125s
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Para rodar localmente:
+- Instale as dependências: npm install
+- Instale o Json Server: npm install -g json-server
+- Rodar dados do json server: npm run json-server
+- Rodar projeto: npm run serve
 
-### Run json server
-```
-npm run json-server
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
